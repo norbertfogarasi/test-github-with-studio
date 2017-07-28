@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">TestGithubWithStudio</string>
-
     <string name="added_string">Hello World!</string>
 </resources>
